@@ -39,3 +39,11 @@ jobs:
       - run:
          name: Backend Deploy
          command: npm run backend:deploy
+      
+workflows:
+  deployment:
+    jobs:
+      - Build-Deploy:
+         filters:
+            branches:
+              only: main
