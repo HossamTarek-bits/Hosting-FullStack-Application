@@ -1,4 +1,4 @@
-# Udagram
+# Udagram [![CircleCI](https://circleci.com/gh/HossamTarek-bits/Hosting-FullStack-Application/tree/main.svg?style=svg)](https://circleci.com/gh/HossamTarek-bits/Hosting-FullStack-Application/tree/main)
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
@@ -8,8 +8,6 @@ This application is provided to you as an alternative starter project if you do 
 1. Move the content of the udagram folder at the root of the repository as this will become the main content of the project.
 1. Open a terminal and navigate to the root of the repo
 1. follow the instructions in the installation step
-
-The project can run but is missing some information to connect to the database and storage service. These will be setup during the course of the project
 
 ### Dependencies
 
@@ -28,4 +26,4 @@ The project can run but is missing some information to connect to the database a
 
 ### FrontEnd Link
 
-http://fullstack-front.s3-website-us-east-1.amazonaws.com/home
+http://fullstack-front.s3-website-us-east-1.amazonaws.com/

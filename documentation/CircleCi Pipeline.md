@@ -1,6 +1,10 @@
-# Pipeline doc
+# Pipeline documentation
 
 - we use CircleCi as our pipeline the config file found at *.circleci/config.yml*
+
+
+![App Digram](../screenshots/CircleCiDigram.png)
+
 ## The config file has the following flows
 
 - Frontend
